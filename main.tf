@@ -24,5 +24,5 @@ name = "sa01"
 location = "EastUS"
 resource_group_name = "rg01"
 account_tier = "Standard"
-account_replication_type = "LRS"
+account_replication_type = "LRS" 
 }
