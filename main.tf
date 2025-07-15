@@ -19,8 +19,8 @@ resource "azurerm_resource_group" "rg01" {
     location = "westus"
 
 }
-resource "azurerm_storage_account" "sa01" {
-name = "sa01"
+resource "azurerm_storage_account" "sa02" {
+name = "sa02"
 location = "EastUS"
 resource_group_name = "rg01"
 account_tier = "Standard"
